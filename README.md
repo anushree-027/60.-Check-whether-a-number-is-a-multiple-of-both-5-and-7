@@ -1,0 +1,1 @@
+# 60.-Check-whether-a-number-is-a-multiple-of-both-5-and-7
